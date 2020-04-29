@@ -24,7 +24,7 @@ local.properties
 *.log
 
 # Package Files #
-*.jar
+#*.jar
 *.war
 *.nar
 *.ear
